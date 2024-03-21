@@ -1,0 +1,10 @@
+problem solving process
+design and inplementatation phases
+expressing algorithm
+complexity function
+average function
+iterative and recursive
+big o notation
+o(n^2)
+iterative and 
+computing power set
